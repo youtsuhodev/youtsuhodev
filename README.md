@@ -19,6 +19,8 @@
 - 🏢 Founder of [**livonix**](https://github.com/livonix)
 - 💜 Sponsor of [@smartfrigde](https://github.com/smartfrigde)
 
+<a href="https://discord.com/users/1393019545522012271"><img src="https://lanyard.cnrad.dev/api/1393019545522012271" /></a>
+
 ---
 
 ### 🛠️ Tech Stack
