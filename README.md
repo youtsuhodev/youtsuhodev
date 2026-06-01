@@ -14,8 +14,6 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=youtsuhodev&label=VISITORS&countColor=%23263759&style=flat-square)](https://github.com/youtsuhodev)
 [![GitHub followers](https://img.shields.io/github/followers/youtsuhodev?style=for-the-badge&logo=github&label=Followers&color=236ad3)](https://github.com/youtsuhodev?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/youtsuhodev?style=for-the-badge&logo=github&label=Stars&color=f5c542)](https://github.com/youtsuhodev?tab=repositories)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1393019545522012271)
-[![livonix](https://img.shields.io/badge/livonix-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/livonix)
 
 </div>
 
@@ -87,62 +85,36 @@ languages:   Rust · TypeScript · JavaScript · Python · C++ · Dart
 
 ---
 
-### 📊 Detailed Metrics
+### 🚀 Pinned Projects
 
-<div align="center">
-
-![Metrics](https://raw.githubusercontent.com/youtsuhodev/youtsuhodev/main/metrics.svg)
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/youtsuhodev/youtsuhodev/output/github-contribution-grid-snake.svg)
-
-</div>
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [**discord.js-selfbot-youtsuho-v13**](https://github.com/youtsuhodev/discord.js-selfbot-youtsuho-v13) | Unofficial discord.js fork for selfbots | ⭐ 9 |
+| [**bugpedia**](https://github.com/youtsuhodev/bugpedia) | — | ⭐ 1 |
+| [**Alcatraz**](https://github.com/youtsuhodev/Alcatraz) | — | ⭐ 1 |
+| [**FreeTube2026**](https://github.com/youtsuhodev/FreeTube2026) | Open Source YouTube app for privacy | ⭐ 1 |
 
 ---
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/youtsuhodev/ActuFlash">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=youtsuhodev&repo=ActuFlash&theme=tokyonight&hide_border=true" alt="ActuFlash"/>
-</a>
-<a href="https://github.com/youtsuhodev/GhostDOM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=youtsuhodev&repo=GhostDOM&theme=tokyonight&hide_border=true" alt="GhostDOM"/>
-</a>
-<a href="https://github.com/youtsuhodev/WeBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=youtsuhodev&repo=WeBot&theme=tokyonight&hide_border=true" alt="WeBot"/>
-</a>
-<a href="https://github.com/youtsuhodev/NEXA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=youtsuhodev&repo=NEXA&theme=tokyonight&hide_border=true" alt="NEXA"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
 
 ### 🤝 Open Source Contributions
 
-[**Legcord/Legcord**](https://github.com/Legcord/Legcord) · [**Vendicated/Vencord**](https://github.com/Vendicated/Vencord) · [**LadybirdBrowser/ladybird**](https://github.com/LadybirdBrowser/ladybird)
+[**Legcord/Legcord**](https://github.com/Legcord/Legcord) · [**Vendicated/Vencord**](https://github.com/Vendicated/Vencord) · [**LadybirdBrowser/ladybird**](https://github.com/LadybirdBrowser/ladybird) · [**sudo-tool/Discord-Blacklist-bot**](https://github.com/sudo-tool/Discord-Blacklist-bot)
 
 ---
 
-*Building things, one commit at a time.* 🚀
+### 🏢 livonix
 
-</div>
+| Project | Description |
+|---------|-------------|
+| [**OpenSound**](https://github.com/livonix/OpenSound) | Desktop music streaming app |
+| [**Heartopia**](https://github.com/livonix/Heartopia) | Wiki platform for Heartopia game |
+| [**Fennec**](https://github.com/livonix/Fennec) | Browser app |
 
 ---
 
 <div align="center">
+
+*Building things, one commit at a time.* 🚀
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
