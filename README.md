@@ -9,23 +9,19 @@
 
 </div>
 
-<div align="center">
-  
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=youtsuhodev&label=VISITORS&countColor=%23263759&style=flat-square)](https://github.com/youtsuhodev)
-[![GitHub followers](https://img.shields.io/github/followers/youtsuhodev?style=for-the-badge&logo=github&label=Followers&color=236ad3)](https://github.com/youtsuhodev?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/youtsuhodev?style=for-the-badge&logo=github&label=Stars&color=f5c542)](https://github.com/youtsuhodev?tab=repositories)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visitors-000?style=for-the-badge&logo=github&logoColor=white&color=236ad3" />
+  <img src="https://img.shields.io/github/followers/youtsuhodev?style=for-the-badge&logo=github&label=Followers&color=236ad3" />
+  <img src="https://img.shields.io/github/stars/youtsuhodev?style=for-the-badge&logo=github&label=Stars&color=f5c542" />
+</p>
 
 ---
 
 ### 💬 Discord Presence
 
-<div align="center">
-
-<a href="https://discord.com/users/1393019545522012271"><img src="https://lanyard.cnrad.dev/api/1393019545522012271?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Probably%20coding..." alt="Discord Presence"/></a>
-
-</div>
+<p align="center">
+  <a href="https://discord.com/users/1393019545522012271"><img src="https://lanyard.cnrad.dev/api/1393019545522012271?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Probably%20coding..." alt="Discord Presence"/></a>
+</p>
 
 ---
 
@@ -44,61 +40,39 @@ languages:   Rust · TypeScript · JavaScript · Python · C++ · Dart
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=rust,ts,js,py,cpp,dart,nodejs,astro&theme=dark&perline=8)](https://skillicons.dev)
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,ts,js,py,cpp,dart,nodejs,astro&theme=dark&perline=8" /></a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=youtsuhodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youtsuhodev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youtsuhodev&theme=tokyonight&hide_border=true" alt="streak"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyoutsuhodev&style=for-the-badge&color=236ad3" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fyoutsuhodev%2Fdiscord.js-selfbot-youtsuho-v13&style=for-the-badge&color=f5c542" />
+  <img src="https://img.shields.io/github/followers/youtsuhodev?style=for-the-badge&label=Followers&color=905cde" />
+</p>
 
 ---
 
-### 🏆 Trophies
+### 🚀 Featured Projects
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=youtsuhodev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youtsuhodev&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 🚀 Pinned Projects
-
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [**discord.js-selfbot-youtsuho-v13**](https://github.com/youtsuhodev/discord.js-selfbot-youtsuho-v13) | Unofficial discord.js fork for selfbots | ⭐ 9 |
-| [**bugpedia**](https://github.com/youtsuhodev/bugpedia) | — | ⭐ 1 |
-| [**Alcatraz**](https://github.com/youtsuhodev/Alcatraz) | — | ⭐ 1 |
-| [**FreeTube2026**](https://github.com/youtsuhodev/FreeTube2026) | Open Source YouTube app for privacy | ⭐ 1 |
+| Project | Description | |
+|---------|-------------|---|
+| [**discord.js-selfbot-youtsuho-v13**](https://github.com/youtsuhodev/discord.js-selfbot-youtsuho-v13) | Unofficial discord.js fork for selfbots | ![Stars](https://img.shields.io/github/stars/youtsuhodev/discord.js-selfbot-youtsuho-v13?style=flat-square&color=f5c542) |
+| [**bugpedia**](https://github.com/youtsuhodev/bugpedia) | — | ![Stars](https://img.shields.io/github/stars/youtsuhodev/bugpedia?style=flat-square&color=f5c542) |
+| [**FreeTube2026**](https://github.com/youtsuhodev/FreeTube2026) | Open Source YouTube app for privacy | ![Stars](https://img.shields.io/github/stars/youtsuhodev/FreeTube2026?style=flat-square&color=f5c542) |
 
 ---
 
 ### 🤝 Open Source Contributions
 
-[**Legcord/Legcord**](https://github.com/Legcord/Legcord) · [**Vendicated/Vencord**](https://github.com/Vendicated/Vencord) · [**LadybirdBrowser/ladybird**](https://github.com/LadybirdBrowser/ladybird) · [**sudo-tool/Discord-Blacklist-bot**](https://github.com/sudo-tool/Discord-Blacklist-bot)
+<p align="center">
+  <a href="https://github.com/Legcord/Legcord"><img src="https://img.shields.io/badge/Legcord-Legcord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/Vendicated/Vencord"><img src="https://img.shields.io/badge/Vendicated-Vencord-000?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/LadybirdBrowser/ladybird"><img src="https://img.shields.io/badge/LadybirdBrowser-ladybird-236ad3?style=for-the-badge" /></a>
+</p>
 
 ---
 
@@ -112,13 +86,17 @@ languages:   Rust · TypeScript · JavaScript · Python · C++ · Dart
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://api.star-history.com/svg?repos=youtsuhodev/discord.js-selfbot-youtsuho-v13&type=Date&theme=dark" width="500" />
+</p>
 
-*Building things, one commit at a time.* 🚀
+---
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
+<p align="center">
+  <i>Building things, one commit at a time.</i> 🚀
+  <br/><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:905cde,100:236ad3&height=120&section=footer">
