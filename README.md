@@ -20,7 +20,7 @@
 ### 💬 Discord Presence
 
 <p align="center">
-  <a href="https://discord.com/users/1393019545522012271"><img src="https://lanyard.cnrad.dev/api/1393019545522012271?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Probably%20coding..." alt="Discord Presence"/></a>
+  <a href="https://discord.com/users/1542677800756977694"><img src="https://lanyard.cnrad.dev/api/1542677800756977694?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Probably%20coding..." alt="Discord Presence"/></a>
 </p>
 
 ---
