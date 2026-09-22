@@ -1,10 +1,12 @@
+# youtsuho
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:236ad3,100:905cde&height=200&section=header&text=Hey%2C%20I'm%20youtsuho&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:236ad3,100:905cde&height=200&section=header&text=Hey%2C%20I'm%20youtsuho&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36" alt="header">
 </picture>
 
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=Build+%2B+Break+%2B+Repeat;Open+Source+%E2%9D%A4%EF%B8%8F;Rust+%7C+TypeScript+%7C+JavaScript;Founder+%40+livonix)](https://git.io/typing-svg)
 
 </div>
@@ -17,32 +19,40 @@
 
 ---
 
-### 💬 Discord Presence
+### 👋 Professional Introduction
 
 <p align="center">
   <a href="https://discord.com/users/1532088708466213050"><img src="https://lanyard.cnrad.dev/api/1532088708466213050?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Probably%20coding..." alt="Discord Presence"/></a>
 </p>
 
+<p align="center">
+  Software Engineer & Open Source Contributor | Building tools, bots, and frameworks
+</p>
+
 ---
 
-### 🧑‍💻 About me
+### 🧑‍💻 About Me
 
 ```yaml
-location:    🏠 Working from home
-focus:       🔧 Tools · Bots · Apps · Frameworks
-oss:         🤝 Legcord, Vencord, Ladybird & more
+location:    🏠 Based in France
+focus:       🔧 Software Engineering · Bot Development · Open Source
 org:         🏢 Founder of livonix
-sponsor:     💜 @smartfrigde
-languages:   Rust · TypeScript · JavaScript · Python · C++ · Dart
+linkedin:    linkedin.com/in/youtsuho
+twitter:     x.com/youtsuho
+mastodon:    mastodon.social/@youtsuho
 ```
+
+I'm a professional software engineer specializing in Rust, TypeScript, and JavaScript. I focus on building robust tools, Discord bots, and open source software. I'm the founder of **livonix**, a company dedicated to innovative software solutions.
+
+**Skills:** Rust · TypeScript · JavaScript · Python · C++ · Dart · Node.js
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,ts,js,py,cpp,dart,nodejs,astro&theme=dark&perline=8" /></a>
-</p>
+<center>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,ts,js,py,cpp,dart,nodejs,go,astro&theme=dark&perline=10" /></a>
+</center>
 
 ---
 
@@ -60,9 +70,15 @@ languages:   Rust · TypeScript · JavaScript · Python · C++ · Dart
 
 | Project | Description | |
 |---------|-------------|---|
-| [**discord.js-selfbot-youtsuho-v13**](https://github.com/youtsuhodev/discord.js-selfbot-youtsuho-v13) | Unofficial discord.js fork for selfbots | ![Stars](https://img.shields.io/github/stars/youtsuhodev/discord.js-selfbot-youtsuho-v13?style=flat-square&color=f5c542) |
-| [**bugpedia**](https://github.com/youtsuhodev/bugpedia) | — | ![Stars](https://img.shields.io/github/stars/youtsuhodev/bugpedia?style=flat-square&color=f5c542) |
-| [**FreeTube2026**](https://github.com/youtsuhodev/FreeTube2026) | Open Source YouTube app for privacy | ![Stars](https://img.shields.io/github/stars/youtsuhodev/FreeTube2026?style=flat-square&color=f5c542) |
+| [**discord.js-selfbot-youtsuho-v13**](https://github.com/youtsuhodev/discord.js-selfbot-youtsuho-v13) | Unofficial discord.js fork for selfbots - Advanced library for Discord selfbot development |
+| [**bugpedia**](https://github.com/youtsuhodev/bugpedia) | Bug tracking and knowledge base platform |
+| [**FreeTube2026**](https://github.com/youtsuhodev/FreeTube2026) | Open Source YouTube app for privacy-focused video viewing |
+| [**OpenSound**](https://github.com/livonix/OpenSound) | Desktop music streaming application |
+| [**Heartopia**](https://github.com/livonix/Heartopia) | Wiki platform for community knowledge sharing |
+
+<p align="center">
+  <img src="https://api.star-history.com/svg?repos=youtsuhodev/discord.js-selfbot-youtsuho-v13&type=Date&theme=dark" width="500" />
+</p>
 
 ---
 
@@ -80,15 +96,9 @@ languages:   Rust · TypeScript · JavaScript · Python · C++ · Dart
 
 | Project | Description |
 |---------|-------------|
-| [**OpenSound**](https://github.com/livonix/OpenSound) | Desktop music streaming app |
-| [**Heartopia**](https://github.com/livonix/Heartopia) | Wiki platform for Heartopia game |
-| [**Fennec**](https://github.com/livonix/Fennec) | Browser app |
-
----
-
-<p align="center">
-  <img src="https://api.star-history.com/svg?repos=youtsuhodev/discord.js-selfbot-youtsuho-v13&type=Date&theme=dark" width="500" />
-</p>
+| **OpenSound** | Cross-platform desktop music streaming app with modern UI |
+| **Heartopia** | Collaborative wiki platform for communities |
+| **Fennec** | Privacy-focused browser extension |
 
 ---
 
